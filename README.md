@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/images/kysu" width="300" />
+  <img src="assets/images/kysu.gif" width="300" />
 
   <br/>
   <br/>
